@@ -37,6 +37,11 @@ There are some initial steps you need to take before you can wrap your apps usin
 
 To transform a Quasar project into a working Cordova app, you need to wrap it initially. The following steps explain how to wrap your app and add the desired platforms.
 
+### Build your app first
+Run the following command to build your app:
+``` bash
+$ quasar build
+```
 
 ### Wrapping
 
